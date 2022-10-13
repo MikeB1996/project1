@@ -1,0 +1,45 @@
+body {
+    display: flex;
+    flex-direction: column;
+    /*justify-content: space-between;
+    align-items: center;*/
+
+}
+
+.header {
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px;
+}
+
+.logo {
+
+}
+
+.list {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    padding: 0;
+    margin: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ul {
+    list-style: none;
+}
