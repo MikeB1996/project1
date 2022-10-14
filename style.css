@@ -127,6 +127,13 @@ button {
     font-weight: bold;
 }
 
+.butt1 {
+    
+    padding: 8px 24px;
+    text-align: center;
+    display: flex;
+}
+
 a {
     text-decoration: none;
     color: #f9faf8;
@@ -138,7 +145,7 @@ ul {
 }
 
 .segment4 {
-
+    
 }
 
 .cont1 {
@@ -148,6 +155,7 @@ ul {
     display: flex;
     padding: 24px 10%;
     justify-content: space-between;
+    align-items: center;
 }
 
 
