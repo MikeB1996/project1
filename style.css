@@ -12,7 +12,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 8px 80px;
+    padding: 8px 10%;
 }
 
 .logo {
@@ -28,14 +28,15 @@ body {
     margin: 0;
 }
 
-
-
-
-
 .segment1 {
     background-color: #1f2937;
     color: #f9faf8;
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 48px 10%;
+    flex: 1;
+    /*flex-wrap: wrap;*/
 }
 
 
@@ -43,19 +44,25 @@ body {
     font-size: 48px;
 }
 
+.text1 {
+   font-size: 18px;
+   color: #e5e7eb; 
+}
 
 
 
 
 
 
-
-
+.img1 {
+    
+}
 
 a {
     text-decoration: none;
     color: #f9faf8;
 }
+
 
 ul {
     list-style: none;
