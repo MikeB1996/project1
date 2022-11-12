@@ -41,13 +41,13 @@ body {
 }
 
 .img2 {
-    width: 400px;
+    width: clamp(300px,50%,600px);
     height: auto;
     border-radius: 12px;
 }
 
 .leftside1 {
-    width: 450px;
+    width: clamp(300px,45%,600px);
 }
 
 .title {
